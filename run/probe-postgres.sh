@@ -1,0 +1,2 @@
+#!/bin/sh
+pg_isready -h localhost -p 5432
