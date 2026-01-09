@@ -7,6 +7,7 @@ set -eu
 CONTAINERS="
 mrva-agent
 mrva-ghmrva
+mrva-hepc
 mrva-minio
 mrva-server
 mrvastore
